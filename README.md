@@ -8,7 +8,7 @@
  <h1>Profile Views : </h1> 
   <center> 
 <a>
-<img src="https://hitwebcounter.com/counter/counter.php?page=11721855&style=0001&nbdigits=5&type=page&initCount=0" title="Counter Widget" border="0" /></a> </center> 
+<img src="https://hitwebcounter.com/counter/counter.php?page=11721855&style=0001&nbdigits=5&type=page&initCount=0" title="" border="0" /></a> </center> 
 
 <img align="right"   alt="coding" width="320" height="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
