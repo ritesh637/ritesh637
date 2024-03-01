@@ -1,19 +1,9 @@
- <h1>Profile Views : </h1> 
+  <center> <h1>Profile Views : </h1> 
   <img src="https://profile-counter.glitch.me/ritesh637/count.svg" />
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+RITESH+KUMAR+GOSWAMI!;" />
-
-<!-- hitwebcounter Code START -->
-
-</h1>
- <h1>Profile Views : </h1> 
-  <center> 
-
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=11722445&style=0009&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a> </center>                               
-                                    
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+RITESH+KUMAR+GOSWAMI!;" /></center>                                    
 
 Full Stack Developer 💻
 -----------------------
