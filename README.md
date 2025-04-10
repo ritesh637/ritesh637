@@ -6,7 +6,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+RITESH+KUMAR+GOSWAMI!;" /></center>                                    
 
 # 💫 About Me:
+
+💻 Full Stack Developer | React, Next.js, Express, MongoDB  
+🚀 Building real-world web apps | Open to freelance.
 🌍  I'm based in India<br>✉️  You can contact me at mneshk480@gmail.com<br>🧠  I'm learning Web Development with Different Stacks.<br>🤝  I'm open to collaborating on Interesting Full Stack Projects.<br>⚡  Love For Programming.
+
+
 
 
 ## 🌐 Socials:
