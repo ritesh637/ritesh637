@@ -15,7 +15,7 @@
 
 🌍 Based in India  
 📧 Email: mneshk480@gmail.com  
-🌐 Website: [riteshgoswami.dev](https://riteshgoswami.dev)  
+🌐 Website: [riteshgoswami.dev](https://riteshkrgoswami.vercel.app/)  
 🧠 Learning Web Development with Different Stacks  
 🤝 Open to collaborating on Interesting Full Stack Projects  
 ⚡ Love for Programming  
