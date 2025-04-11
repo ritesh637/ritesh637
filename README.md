@@ -1,3 +1,8 @@
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://your-banner-image-url.com/banner.png" alt="Banner" />
+</p>
+
 <h1 align="center">Profile Views :</h1>
 <p align="center">
   <img src="https://profile-counter.glitch.me/ritesh637/count.svg" />
