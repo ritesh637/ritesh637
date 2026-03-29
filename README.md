@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/ritesh-kumar-goswami-b56a5b208" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/_iam_riteshgoswami" target="_blank">
+  <a href="[https://instagram.com/_iam_riteshgoswami](https://www.instagram.com/heyritesh09)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:mneshk480@gmail.com">
