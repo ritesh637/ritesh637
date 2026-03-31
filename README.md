@@ -30,7 +30,7 @@
 - ⚡ **Fun Fact:** I can debug code faster than I can write it (most of the time!)
 - 📍 **Location:** India
 - 📧 **Email:** [mneshk480@gmail.com](mailto:mneshk480@gmail.com)
-- 🌐 **Portfolio:** [riteshkrgoswami.vercel.app](https://riteshkrgoswami.vercel.app)
+- 🌐**Portfolio:** [ritesh-portfolio-2026.vercel.app](https://ritesh-portfolio-2026.vercel.app/)
 
 ---
 
