@@ -6,14 +6,14 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Full+Stack+Developer+%7C+MERN+%26+Next.js;Passionate+about+Clean+Code+%26+Best+Practices;Open+to+Collaborations+%26+Freelance+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00786F&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Full+Stack+Developer+%7C+MERN+%26+Next.js;Passionate+about+Clean+Code+%26+Best+Practices;Open+to+Collaborations+%26+Freelance+Work" alt="Typing SVG" />
 </p>
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=ritesh637&label=Profile%20Views&color=2E8B57&style=flat)
-  ![Status](https://img.shields.io/badge/Status-Available%20for%20Work-success?style=flat&color=2E8B57)
-  ![Hireable](https://img.shields.io/badge/Hireable-Yes-brightgreen?style=flat)
+  ![Profile Views](https://komarev.com/ghpvc/?username=ritesh637&label=Profile%20Views&color=00786F&style=flat)
+  ![Status](https://img.shields.io/badge/Status-Available%20for%20Work-success?style=flat&color=00786F)
+  ![Hireable](https://img.shields.io/badge/Hireable-Yes-brightgreen?style=flat&color=00786F)
 
 </div>
 
@@ -30,7 +30,7 @@
 - ⚡ **Fun Fact:** I can debug code faster than I can write it (most of the time!)
 - 📍 **Location:** India
 - 📧 **Email:** [mneshk480@gmail.com](mailto:mneshk480@gmail.com)
-- 🌐 **Portfolio:** [riteshkrgoswami.vercel.app](https://riteshkrgoswami.vercel.app)
+- 🌐 **Portfolio:** [ritesh-portfolio-2026.vercel.app](https://ritesh-portfolio-2026.vercel.app/)
 
 ---
 
@@ -40,9 +40,9 @@
   <a href="https://www.linkedin.com/in/ritesh-kumar-goswami-b56a5b208" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
- <a href="https://www.instagram.com/heyritesh09" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+  <a href="https://www.instagram.com/heyritesh09" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="mailto:mneshk480@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -127,12 +127,12 @@
   
   <!-- Stats Cards -->
   <a href="https://github.com/ritesh637">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritesh637&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E8B57&icon_color=2E8B57" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh637&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E8B57" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritesh637&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00786F&icon_color=00786F" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh637&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00786F" alt="Top Languages" />
   </a>
   
   <!-- Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh637&theme=dark&hide_border=true&background=0D1117&stroke=2E8B57&ring=2E8B57&fire=2E8B57&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2E8B57" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh637&theme=dark&hide_border=true&background=0D1117&stroke=00786F&ring=00786F&fire=00786F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00786F" alt="GitHub Streak" />
   
 </div>
 
@@ -142,7 +142,7 @@
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritesh637&theme=github-dark&bg_color=0D1117&hide_border=true&area=true&area_color=2E8B57&line=2E8B57&point=FFFFFF&title_color=FFFFFF)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritesh637&theme=github-dark&bg_color=0D1117&hide_border=true&area=true&area_color=00786F&line=00786F&point=FFFFFF&title_color=FFFFFF)
   
 </div>
 
