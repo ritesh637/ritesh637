@@ -40,9 +40,9 @@
   <a href="https://www.linkedin.com/in/ritesh-kumar-goswami-b56a5b208" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/heyritesh09" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+ <a href="https://www.instagram.com/heyritesh09" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
   <a href="mailto:mneshk480@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -125,16 +125,12 @@
 
 <div align="center">
   
-  <!-- GitHub Stats Card -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ritesh637&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00786F&icon_color=00786F&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
-  
-  <!-- Top Languages Card -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh637&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00786F&text_color=FFFFFF" alt="Top Languages" />
-  
-  <br/><br/>
+  <!-- Stats Cards - Using working APIs -->
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ritesh637&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00786F&icon_color=00786F" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ritesh637&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00786F" alt="Top Languages" />
   
   <!-- Streak Stats -->
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh637&theme=dark&hide_border=true&background=0D1117&stroke=00786F&ring=00786F&fire=00786F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00786F" alt="GitHub Streak" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=ritesh637&theme=dark&hide_border=true&background=0D1117&stroke=00786F&ring=00786F&fire=00786F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00786F" alt="GitHub Streak" />
   
 </div>
 
@@ -154,17 +150,7 @@
 
 <div align="center">
   
-  <!-- GitHub Trophies - Main Display -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ritesh637&theme=onedark&no-frame=false&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  
-  <br/><br/>
-  
-  <!-- Alternative Trophy Display with different theme -->
-  <details>
-    <summary>🏆 View More Trophies</summary>
-    <br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=ritesh637&theme=darkhub&no-frame=true&row=3&column=3" alt="GitHub Trophies Alternative" />
-  </details>
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ritesh637&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
   
 </div>
 
@@ -176,9 +162,9 @@
 
 | Project | Description | Tech Stack | Live |
 |---------|-------------|------------|------|
-| **Portfolio Website** | Personal portfolio showcasing my work | Next.js, Tailwind CSS, Framer Motion | [Live Demo](https://ritesh-portfolio-2026.vercel.app/) |
 | **E-Commerce Platform** | Full-featured online shopping platform | React, Node.js, MongoDB, Stripe | [Live Demo](https://example.com) |
 | **Task Management App** | Collaborative task management tool | Next.js, TypeScript, Prisma, PostgreSQL | [Live Demo](https://example.com) |
+| **Social Media Dashboard** | Analytics dashboard for social media | React, Express, MongoDB, Chart.js | [Live Demo](https://example.com) |
 
 ### **📂 Project Showcase**
 - 🔥 **[Project 1](https://github.com/ritesh637/project1)** - Brief description
